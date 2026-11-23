@@ -1,0 +1,19 @@
+# Local student database
+students.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# System files
+.DS_Store
+
+# Streamlit secrets
+.streamlit/secrets.toml
